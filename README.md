@@ -17,7 +17,7 @@ Based on Smilga's Design
 1. Clone the repo
 
 ```sh
-git clone https://github.com/IlyaEru/Color-Generator.git
+git clone https://github.com/IlyaEru/Grocery-Bud.git
 ```
 
 2. Install NPM packages
